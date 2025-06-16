@@ -1,7 +1,7 @@
 # PDFQueryBot
 A Smart Q&A Chatbot for PDF Understanding using LangChain + HuggingFace
 
-**DocuMind** is an AI-powered Question Answering (Q&A) chatbot that reads a PDF, understands its content, and answers user queries in natural language. This project is built using **LangChain**, **Hugging Face LLMs**, and **ChromaDB** — enabling semantic search and natural language responses over static PDF files.
+**PDFQueryBot** is an AI-powered Question Answering (Q&A) chatbot that reads a PDF, understands its content, and answers user queries in natural language. This project is built using **LangChain**, **Hugging Face LLMs**, and **ChromaDB** — enabling semantic search and natural language responses over static PDF files.
 
 Use cases include:
 - Customer support automation for document-heavy industries
