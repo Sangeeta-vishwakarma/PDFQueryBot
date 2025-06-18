@@ -64,8 +64,7 @@ Traditional PDFs are static — to find anything, you must *search manually*. Th
 ---
 
 ## What’s Next?
-
-- Integrating **Gradio** or **Streamlit** for a simple user interface  
+  
 - Enhancing with **RAG (Retrieval-Augmented Generation)** for better factual grounding  
 - Adding support for **multiple PDFs** and multi-language documents  
 
